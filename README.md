@@ -140,4 +140,4 @@ Scanner Class – For user input handling
 Modular Functions – For clean, structured, and reusable code
 
 Command Line Interface (CLI) – No GUI, runs directly in the terminal
-![output](2.png) 
+![output](2.png.png) 
