@@ -110,12 +110,7 @@ A simple Java console application that reads a variable number of subject marks,
 
 ### Clone the Repo
 
-```bash
-git clone https://github.com/yourusername/grade-calculator.git
-cd grade-calculator
-Compile
-javac Main.java
-Run
+
 java Main
 🎯 Usage
 Enter the number of subjects when prompted.
