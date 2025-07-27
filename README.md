@@ -60,4 +60,4 @@ Language: Java
 
 Libraries: java.util.Scanner, java.util.Random
 
-[LinkedIn Profile](1.png)
+[output](1.png)
